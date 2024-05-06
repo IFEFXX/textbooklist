@@ -104,8 +104,8 @@ button:hover {
 
 .checkbox-group label {
     padding: 10px 20px;
-    background-color: whitesmoke;
-    color: white;
+    background: transparent;
+    color: black;
     border-radius: 5px;
 }
 
