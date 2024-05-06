@@ -119,3 +119,7 @@ button:hover {
 .checkbox-group input[type="radio"]:checked + label {
     background-color: #f9f9f9;
 }
+.consent{
+    font-weight: 100;
+    font-size:14px;
+}
